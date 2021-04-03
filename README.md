@@ -24,7 +24,7 @@ You can have a look at my repository by clicking on this link(https://github.com
 <li> Navigate to your browser to the follwoing link http://localhost:3000/  to view the app </li>
 </ol>
 
-<p> You can also view the deployed website by looking at the following website:  </p>
+<p> You can also view the deployed website by looking at the following website:  https://apricot-elfin-oxygen.glitch.me</p>
 
 The application is dependant on expressjs, ejs, and body-parser.
 Here is the structure of the project:
